@@ -1,4 +1,4 @@
 ## Oiie! Eu me chamo Jennifer Barbosa
 
-- 👩🏼‍💻 Atualmente não trabalho na área de tecnolgia. Mas, estou cursando ADS e tenho interesse em seguir carreira na área de dados.
-- 📚 Além da faculdade, faço cursos voltados para a minha aprendizagem e estudo linguagens de programação. Meu foco no momento, é Python.
+* 👩🏼‍💻 Atualmente atuo na área comercial e estou em transição de carreira para a área de dados. Curso Gestão da Tecnologia da Informação e meu objetivo é trabalhar com análise de dados e automação de processos.
+* 📚 Além da faculdade, faço curso de Power BI e estudo Python, que é o meu foco no momento. Também estudo inglês para me preparar melhor para o mercado.
